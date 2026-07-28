@@ -9,4 +9,4 @@ My work has involved developing:
 The technical backbone for these projects primarily involves **Python**. My doctoral thesis, whose LaTeX source code you can find pinned, focuses on data-driven methods for characterizing the heterogeneity observed in Alzheimer's Disease. You can also find other algorithms and studies related to published papers and related work here!
 
 ---
-You can find more about my professional background on [LinkedIn](linkedin.com/gerardmjuan) or reach out via email at `gerardmartijuan arroba gmail.com`.
+You can find more about my professional background on [LinkedIn](linkedin.com/gerardmjuan) or reach out via email at `gerardmartijuan at gmail.com`.
